@@ -20,5 +20,14 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Abhikumar-code/LeetCode/tree/master/0078-subsets) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhikumar-code/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Abhikumar-code/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Abhikumar-code/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
