@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Abhikumar-code/LeetCode/tree/master/0078-subsets) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Abhikumar-code/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhikumar-code/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Backtracking
 |  |
@@ -36,4 +37,20 @@
 | ------- |
 | [0078-subsets](https://github.com/Abhikumar-code/LeetCode/tree/master/0078-subsets) |
 | [0784-letter-case-permutation](https://github.com/Abhikumar-code/LeetCode/tree/master/0784-letter-case-permutation) |
+## Math
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Abhikumar-code/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Greedy
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Abhikumar-code/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Sorting
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Abhikumar-code/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Abhikumar-code/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
