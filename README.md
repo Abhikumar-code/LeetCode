@@ -24,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Abhikumar-code/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Abhikumar-code/LeetCode/tree/master/0078-subsets) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Abhikumar-code/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhikumar-code/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhikumar-code/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/Abhikumar-code/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Abhikumar-code/LeetCode/tree/master/0078-subsets) |
 | [0784-letter-case-permutation](https://github.com/Abhikumar-code/LeetCode/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
