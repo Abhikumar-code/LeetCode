@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhikumar-code/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhikumar-code/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhikumar-code/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Abhikumar-code/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0078-subsets](https://github.com/Abhikumar-code/LeetCode/tree/master/0078-subsets) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Abhikumar-code/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhikumar-code/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Abhikumar-code/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Backtracking
 |  |
 | ------- |
