@@ -37,6 +37,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhikumar-code/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Abhikumar-code/LeetCode/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/Abhikumar-code/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Abhikumar-code/LeetCode/tree/master/0078-subsets) |
 | [0784-letter-case-permutation](https://github.com/Abhikumar-code/LeetCode/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
