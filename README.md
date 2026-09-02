@@ -77,6 +77,7 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abhikumar-code/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Abhikumar-code/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abhikumar-code/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Abhikumar-code/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -94,4 +96,8 @@
 | ------- |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Abhikumar-code/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhikumar-code/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Abhikumar-code/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 <!---LeetCode Topics End-->
