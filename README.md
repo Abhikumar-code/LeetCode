@@ -67,6 +67,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Abhikumar-code/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Abhikumar-code/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Abhikumar-code/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhikumar-code/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -82,6 +83,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abhikumar-code/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Abhikumar-code/LeetCode/tree/master/1302-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Abhikumar-code/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abhikumar-code/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Abhikumar-code/LeetCode/tree/master/1302-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Abhikumar-code/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -112,4 +115,9 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abhikumar-code/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Abhikumar-code/LeetCode/tree/master/1302-deepest-leaves-sum) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Abhikumar-code/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Abhikumar-code/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
