@@ -90,6 +90,7 @@
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Abhikumar-code/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Abhikumar-code/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Abhikumar-code/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Abhikumar-code/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Abhikumar-code/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Abhikumar-code/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
