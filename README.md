@@ -85,6 +85,7 @@
 | [0113-path-sum-ii](https://github.com/Abhikumar-code/LeetCode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abhikumar-code/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Abhikumar-code/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Abhikumar-code/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -107,6 +108,7 @@
 | [0113-path-sum-ii](https://github.com/Abhikumar-code/LeetCode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abhikumar-code/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Abhikumar-code/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Abhikumar-code/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -128,6 +130,7 @@
 | [0113-path-sum-ii](https://github.com/Abhikumar-code/LeetCode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abhikumar-code/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Abhikumar-code/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Abhikumar-code/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -137,6 +140,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Abhikumar-code/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Lifting
 |  |
