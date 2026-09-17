@@ -36,6 +36,7 @@
 | [0078-subsets](https://github.com/Abhikumar-code/LeetCode/tree/master/0078-subsets) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhikumar-code/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhikumar-code/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhikumar-code/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Abhikumar-code/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Abhikumar-code/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhikumar-code/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -86,6 +87,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abhikumar-code/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhikumar-code/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Abhikumar-code/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Abhikumar-code/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -109,6 +111,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abhikumar-code/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhikumar-code/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Abhikumar-code/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Abhikumar-code/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -141,6 +144,7 @@
 |  |
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhikumar-code/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Abhikumar-code/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Lifting
 |  |
@@ -154,4 +158,12 @@
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhikumar-code/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhikumar-code/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhikumar-code/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
