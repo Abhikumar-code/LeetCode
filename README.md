@@ -10,6 +10,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Abhikumar-code/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Abhikumar-code/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Abhikumar-code/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhikumar-code/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhikumar-code/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhikumar-code/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhikumar-code/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -93,6 +94,7 @@
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Abhikumar-code/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Abhikumar-code/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhikumar-code/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -102,6 +104,7 @@
 | [1302-deepest-leaves-sum](https://github.com/Abhikumar-code/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Abhikumar-code/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhikumar-code/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -117,6 +120,7 @@
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Abhikumar-code/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Abhikumar-code/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhikumar-code/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Prefix Sum
 |  |
@@ -139,6 +143,7 @@
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Abhikumar-code/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Abhikumar-code/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhikumar-code/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
