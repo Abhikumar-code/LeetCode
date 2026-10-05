@@ -13,6 +13,7 @@
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhikumar-code/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhikumar-code/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhikumar-code/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Abhikumar-code/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhikumar-code/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -25,6 +26,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhikumar-code/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhikumar-code/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhikumar-code/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Abhikumar-code/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Sliding Window
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Abhikumar-code/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Abhikumar-code/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhikumar-code/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Abhikumar-code/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Sorting
 |  |
 | ------- |
@@ -170,6 +173,7 @@
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Abhikumar-code/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhikumar-code/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Abhikumar-code/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -182,4 +186,8 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Abhikumar-code/LeetCode/tree/master/0678-valid-parenthesis-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Abhikumar-code/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 <!---LeetCode Topics End-->
