@@ -22,6 +22,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhikumar-code/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0678-valid-parenthesis-string](https://github.com/Abhikumar-code/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0784-letter-case-permutation](https://github.com/Abhikumar-code/LeetCode/tree/master/0784-letter-case-permutation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhikumar-code/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Abhikumar-code/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhikumar-code/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhikumar-code/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Abhikumar-code/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Abhikumar-code/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhikumar-code/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Abhikumar-code/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhikumar-code/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Abhikumar-code/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
@@ -173,6 +175,7 @@
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Abhikumar-code/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhikumar-code/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhikumar-code/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Abhikumar-code/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Monotonic Stack
 |  |
@@ -186,6 +189,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Abhikumar-code/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhikumar-code/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
