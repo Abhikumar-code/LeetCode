@@ -64,6 +64,7 @@
 ## Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Abhikumar-code/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Abhikumar-code/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhikumar-code/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
@@ -155,6 +156,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Abhikumar-code/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0669-trim-a-binary-search-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhikumar-code/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Abhikumar-code/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -194,4 +196,8 @@
 |  |
 | ------- |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Abhikumar-code/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
+## Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Abhikumar-code/LeetCode/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
