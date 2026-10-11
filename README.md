@@ -49,6 +49,7 @@
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Abhikumar-code/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Abhikumar-code/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhikumar-code/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/Abhikumar-code/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhikumar-code/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhikumar-code/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhikumar-code/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -82,6 +83,7 @@
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Abhikumar-code/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhikumar-code/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Abhikumar-code/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/Abhikumar-code/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhikumar-code/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Abhikumar-code/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Sorting
@@ -209,6 +211,7 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Abhikumar-code/LeetCode/tree/master/0621-task-scheduler) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/Abhikumar-code/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhikumar-code/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Abhikumar-code/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Two Pointers
