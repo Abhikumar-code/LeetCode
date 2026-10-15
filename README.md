@@ -13,6 +13,7 @@
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Abhikumar-code/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhikumar-code/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhikumar-code/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abhikumar-code/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhikumar-code/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhikumar-code/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Abhikumar-code/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
@@ -52,6 +53,7 @@
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Abhikumar-code/LeetCode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhikumar-code/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhikumar-code/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abhikumar-code/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhikumar-code/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhikumar-code/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Backtracking
@@ -226,4 +228,12 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhikumar-code/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abhikumar-code/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abhikumar-code/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
