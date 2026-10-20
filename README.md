@@ -56,6 +56,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abhikumar-code/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhikumar-code/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhikumar-code/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/Abhikumar-code/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Backtracking
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Abhikumar-code/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Abhikumar-code/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhikumar-code/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/Abhikumar-code/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Abhikumar-code/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhikumar-code/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhikumar-code/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Abhikumar-code/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Game Theory
 |  |
 | ------- |
@@ -228,6 +231,7 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhikumar-code/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/Abhikumar-code/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
