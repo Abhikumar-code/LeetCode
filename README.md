@@ -29,6 +29,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhikumar-code/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Abhikumar-code/LeetCode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhikumar-code/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2409-count-days-spent-together](https://github.com/Abhikumar-code/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhikumar-code/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhikumar-code/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/Abhikumar-code/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
@@ -76,6 +77,7 @@
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Abhikumar-code/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Abhikumar-code/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2409-count-days-spent-together](https://github.com/Abhikumar-code/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhikumar-code/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/Abhikumar-code/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Greedy
