@@ -55,6 +55,7 @@
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhikumar-code/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhikumar-code/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abhikumar-code/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhikumar-code/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhikumar-code/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhikumar-code/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/Abhikumar-code/LeetCode/tree/master/3886-sum-of-sortable-integers) |
@@ -132,6 +133,7 @@
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Abhikumar-code/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhikumar-code/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhikumar-code/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -172,6 +174,7 @@
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Abhikumar-code/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Abhikumar-code/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhikumar-code/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Abhikumar-code/LeetCode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -242,4 +245,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abhikumar-code/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhikumar-code/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Matrix
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhikumar-code/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
