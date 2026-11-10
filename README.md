@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Abhikumar-code/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Abhikumar-code/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Abhikumar-code/LeetCode/tree/master/0078-subsets) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhikumar-code/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhikumar-code/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhikumar-code/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Abhikumar-code/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Abhikumar-code/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Abhikumar-code/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Abhikumar-code/LeetCode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Abhikumar-code/LeetCode/tree/master/0113-path-sum-ii) |
@@ -267,4 +269,8 @@
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Abhikumar-code/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhikumar-code/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Abhikumar-code/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
