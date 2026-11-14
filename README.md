@@ -42,6 +42,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Abhikumar-code/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhikumar-code/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhikumar-code/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Abhikumar-code/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Array
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhikumar-code/LeetCode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhikumar-code/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abhikumar-code/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Abhikumar-code/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhikumar-code/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhikumar-code/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhikumar-code/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -167,6 +169,7 @@
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhikumar-code/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Abhikumar-code/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Counting
 |  |
 | ------- |
